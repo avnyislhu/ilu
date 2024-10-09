@@ -7,7 +7,7 @@ const texts = [
     "I",
     "Love💞",
     "You",
-    "VYSHU😘"
+    "Swetha😘"
    
 ];
 
